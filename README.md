@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Etuk @Dhei-vid
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript with the aim of being a react developer. 
 - 💞️ I’m looking to collaborate on User-centered designs 
 - 📫 You can reach me through;
     * Mail - djetuk@gmail.com
