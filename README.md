@@ -8,7 +8,7 @@ I recently graduated with a degree in Sofware Engineering. I started my Frontend
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   ✉️  You can contact me at [djetuk@gmail.com](mailto:djetuk@gmail.com)
-*   🚀  I'm currently working on [Forkify Mock application](https://forkify-food-etuk.netlify.app/)
+*   🚀  I'm currently working on [Cara E-Commerce Site](https://e-commerce-cara.netlify.app/)
 *   🧠  I'm currently learning React
 *   🤝  I'm open to collaborating on Interesting Web Applications
 *   ⚡  The dream is to be a FullStack developer and I am working hard towards it.
