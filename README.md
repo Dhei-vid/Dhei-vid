@@ -9,9 +9,9 @@ I recently graduated with a degree in Sofware Engineering. I started my Frontend
 *   🌍  I'm based in Abuja, Nigeria.
 *   ✉️  You can contact me at [djetuk@gmail.com](mailto:djetuk@gmail.com)
 *   🚀  I'm currently working on [Cara E-Commerce Site](https://e-commerce-cara.netlify.app/)
-*   🧠  I'm currently learning React
+*   🧠  I'm currently taking a course on Full Stack Development, courtsey of ALX Scholarship on Udacity 
 *   🤝  I'm open to collaborating on Interesting Web Applications
-*   ⚡  The dream is to be a FullStack developer and I am working hard towards it.
+*   ⚡  The dream is to be a FullStack developer and I am working towards it.
 
 ### Skills
 
