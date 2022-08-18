@@ -4,7 +4,7 @@ Hi 👋 My name is David Etuk
 Software Engineer/ FrontEnd Developer
 -------------------------------------
 
-I graduated with a degree in Sofware Engineering 2021. I started my Frontend Web Development career with JavaScript 7 months ago. I am eager to provide solutions to client problems. I am a fast learner, resourceful, and dedicated.
+Recently graduated with a degree in Sofware Engineering. I started my Frontend Web Development career with JavaScript 7 months ago. I am eager to provide solutions to client problems. I am a fast learner, resourceful, and dedicated.
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   ✉️  You can contact me at [djetuk@gmail.com](mailto:djetuk@gmail.com)
