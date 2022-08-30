@@ -1,7 +1,7 @@
 Hi 👋 My name is David Etuk
 ===========================
 
-Software Engineer/ FrontEnd Developer
+Software Engineer || FrontEnd Developer
 -------------------------------------
 
 Recently graduated with a degree in Sofware Engineering. I started my Frontend Web Development career with JavaScript 8 months ago and now currently learning React. I am eager to provide web solutions to client problems. I am a fast learner, resourceful, and dedicated.
