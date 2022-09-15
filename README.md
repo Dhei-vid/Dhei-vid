@@ -10,7 +10,7 @@ Recently graduated with a degree in Sofware Engineering. Advancing my Frontend W
 *   ✉️  You can contact me at [djetuk@gmail.com](mailto:djetuk@gmail.com)
 *   🚀  I'm currently working on [Cara E-Commerce Site](https://e-commerce-cara.netlify.app/)
 *   🧠  I'm currently taking a course on React on Udemy. 
-*   🤝  I'm open to collaborating on Interesting Web Applications and internship positions for Frontend Web Development. 
+*   🤝  I'm open to collaborating on Interesting Web Applications and internship positions for Frontend Development. 
 *   ⚡  The dream is to be a FullStack MERN developer.
 
 ### Skills
