@@ -1,8 +1,8 @@
 Hi 👋 My name is David Etuk
 ===========================
 
-Software Engineer || FrontEnd Developer
--------------------------------------
+Software Engineer || FrontEnd Developer || Aspiring FullStack MERN Developer
+-----------------------------------------------------------------------------
 
 Recently graduated with a degree in Sofware Engineering. Advancing my Frontend Web Development career with Reactjs. I am eager to provide web solutions to client. I am a fast learner, a team player, and a problem solver with good communication and excellent researching ability.
 
