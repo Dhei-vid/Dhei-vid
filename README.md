@@ -1,5 +1,3 @@
-[![@jayyy's Holopin board](https://holopin.io/api/user/board?user=jayyy)](https://holopin.io/@jayyy)
-
 Hi 👋 My name is David Etuk
 ===========================
 
@@ -35,4 +33,5 @@ Recently graduated with a degree in Sofware Engineering. Advancing my Frontend W
 <a href="https://www.linkedin.com/in/david-etuk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>                          
 <a href="https://www.stackoverflow.com/users/19004471/david-e" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-
+### Digital Badges
+[![@jayyy's Holopin board](https://holopin.io/api/user/board?user=jayyy)](https://holopin.io/@jayyy)
