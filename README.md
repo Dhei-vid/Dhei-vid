@@ -7,11 +7,11 @@ Software Engineer || React Developer || Aspiring FullStack MERN Developer
 Recently graduated with a degree in Sofware Engineering. Advancing my Frontend Web Development career with Reactjs. I am eager to provide web solutions to client. I am a fast learner, a team player, and a problem solver with good communication and excellent researching ability.
 
 *   🌍  I'm based in Abuja, Nigeria.
-*   ✉️  You can contact me at [djetuk@gmail.com](mailto:djetuk@gmail.com)
-*   🚀  I'm currently working on a React-built [Gold-Clothing E-Commerce Site](https://gold-clothing-merch.netlify.app/)
-*   🧠  I'm currently taking a course on React on Udemy and also learning TypeScript. 
-*   🤝  I'm open to collaborating on Interesting Web Applications and internship positions for Frontend Development. 
-*   ⚡  The dream is to be a FullStack MERN developer.
+*   ✉️  You can contact me via [djetuk@gmail.com](mailto:djetuk@gmail.com)
+*   🚀  I'm currently working on a React project [Gold-Clothing E-Commerce Site](https://gold-clothing-merch.netlify.app/)
+*   🧠  I'm currently taking a React course on Udemy and also learning TypeScript. 
+*   🤝  I'm open to collaborating on Interesting Web Applications and open to internship positions or entry level positions for Frontend Development. 
+*   ⚡  Working towards becoming a FullStack MERN developer.
 
 ### Skills
 
