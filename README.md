@@ -8,7 +8,7 @@ Recently graduated with a degree in Sofware Engineering. Advancing my Frontend W
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   ✉️  You can contact me via [djetuk@gmail.com](mailto:djetuk@gmail.com)
-*   🚀  I'm currently working on a React project [Gold-Clothing E-Commerce Site](https://gold-clothing-merch.netlify.app/)
+*   🚀  I'm working on a React project [Gold-Clothing E-Commerce Site](https://gold-clothing-merch.netlify.app/)
 *   🧠  I'm currently taking a React course on Udemy and also learning TypeScript. 
 *   🤝  I'm open to collaborating on Interesting Web Applications and open to internship positions or entry level positions for Frontend Development. 
 *   ⚡  Working towards becoming a FullStack MERN developer.
