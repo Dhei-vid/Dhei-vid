@@ -1,4 +1,4 @@
-Hi 👋 My name is David Etuk
+Hello, David Etuk here
 ===========================
 
 Software Engineer || React Developer || Aspiring FullStack MERN Developer
