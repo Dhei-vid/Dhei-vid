@@ -1,4 +1,4 @@
-Hello, I am David Etuk
+David Etuk
 ===========================
 
 BSc. Software Engineering || React Developer || Aspiring FullStack MERN Developer
