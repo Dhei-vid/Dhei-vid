@@ -4,7 +4,7 @@ David Etuk
 BSc. Software Engineering || FrontEnd React Developer
 -----------------------------------------------------------------------------
 
-A recent graduate in Sofware Engineering with the aspiration of being a FullStack MERN developer. I am a skilled Frontend Developer with experience in building responsive web applications using React JS. My expertise includes building UI components, optimizing performances, writing scalable code, debugging, and implementing responsive design principles. Additionally, I am proficient in tools such as Git, Webpack, and NPM. I am currently seeking opportunities to learn and grow as a developer.
+A Software Engineer and Frontend Developer with experience in building responsive web applications using React JS and TypeScript. My expertise includes building UI components, optimizing performances, writing scalable code, debugging, and implementing responsive design principles. Additionally, I am proficient in tools such as Git, Webpack, and NPM. 
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   ✉️  You can contact me via [djetuk@gmail.com](mailto:djetuk@gmail.com)
