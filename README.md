@@ -10,7 +10,6 @@ A Software Engineer and Frontend Developer with experience in building responsiv
 *   ✉️  You can contact me via [djetuk@gmail.com](mailto:djetuk@gmail.com)
 *   🚀  I'm working on a React project [Gold-Clothing E-Commerce Site](https://gold-clothing-merch.netlify.app/)
 *   🧠  I'm currently taking a React course on Udemy and also learning TypeScript. 
-*   🤝  I'm open to collaborating on Interesting Web Applications and open to internship positions or entry level positions for Frontend Development. 
 *   ⚡  Working towards becoming a FullStack MERN developer.
 
 ### Skills
