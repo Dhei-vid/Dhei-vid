@@ -1,7 +1,7 @@
 David Etuk
 ===========================
 
-BSc. Software Engineering || FrontEnd React Developer
+BSc. Software Engineering || FrontEnd Developer (React & TypeScript)
 -----------------------------------------------------------------------------
 
 A Software Engineer and Frontend Developer with experience in building responsive web applications using React JS and TypeScript. My expertise includes building UI components, optimizing performances, writing scalable code, debugging, and implementing responsive design principles. Additionally, I am proficient in tools such as Git, Webpack, and NPM. 
