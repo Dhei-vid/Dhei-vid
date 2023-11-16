@@ -8,9 +8,8 @@ A Software Engineer and Frontend Developer with experience in building responsiv
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   ✉️  You can contact me via [djetuk@gmail.com](mailto:djetuk@gmail.com)
-*   🚀  I'm working on a React (fully migrated codebase to TypeScript) project [Gold-Clothing E-Commerce Site](https://gold-clothing-merch.netlify.app/)
-*   🧠  I'm currently taking a React course on Udemy and also learning TypeScript. 
-*   ⚡  Working towards becoming a FullStack MERN developer.
+*   🚀  I'm working on a Fitness application with Gr8Fit, UK.
+*   ⚡  Starting a new journey towards backend engineering with Java (first language I learnt)
 
 ### Skills
 
