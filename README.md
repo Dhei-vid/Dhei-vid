@@ -4,7 +4,7 @@ David Etuk
 BSc. Software Engineering || FrontEnd Developer (React & React Native)
 -----------------------------------------------------------------------------
 
-A Software Engineer and Frontend Developer with experience in building mobile and responsive web applications using React JS and React Native respectively. My expertise includes building UI components, optimizing performances, writing scalable code, debugging, implementing responsive design principles and coming up with innovative solutions. Additionally, I enjoy working in a team and being up-to-date with latest features.
+A Software Engineer and Frontend Developer with experience in building mobile and responsive web applications using React Native and React JS respectively. My expertise includes building UI components, optimizing performances, writing scalable code, debugging, implementing responsive design principles and coming up with innovative solutions. Additionally, I enjoy working in a team and being up-to-date with latest features.
 
 *   🌍  I'm based in Abuja, Nigeria.
 *   ✉️  You can contact me via [djetuk@gmail.com](mailto:djetuk@gmail.com)
