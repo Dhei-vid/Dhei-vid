@@ -1,7 +1,7 @@
 David Etuk
 ===========================
 
-BSc. Software Engineering || FrontEnd Developer (React & React Native)
+BSc. Software Engineering || Web & Mobile Developer (React & React Native)
 -----------------------------------------------------------------------------
 
 A Software Engineer and Frontend Developer with experience in building mobile and responsive web applications using React Native and React JS respectively. My expertise includes building UI components, optimizing performances, writing scalable code, debugging, implementing responsive design principles and coming up with innovative solutions. Additionally, I enjoy working in a team and being up-to-date with latest features.
